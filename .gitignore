@@ -1,0 +1,11 @@
+# JetBrains template
+.idea/
+*.iml
+__pycache__/
+
+
+# log
+log/data/*.log
+*.log
+
+migrations/
