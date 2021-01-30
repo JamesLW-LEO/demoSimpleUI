@@ -10,5 +10,5 @@ log/data/*.log
 
 migrations/
 
-
+# 数据库db
 db.sqlite3
