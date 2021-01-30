@@ -9,3 +9,6 @@ log/data/*.log
 *.log
 
 migrations/
+
+
+db.sqlite3
